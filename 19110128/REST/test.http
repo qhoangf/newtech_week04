@@ -1,0 +1,8 @@
+//Step 1 : Install Extension REST Client
+//Step 2 : Click Send Request.
+POST http://localhost:5000/test HTTP/1.1
+Content-Type: application/json 
+
+{
+    "id": "20110394", "name":"Luong Minh Phuoc"
+}
